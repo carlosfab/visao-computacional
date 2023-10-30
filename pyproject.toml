@@ -20,6 +20,11 @@ mkdocstrings-python = "^1.7.3"
 pygments = "^2.16.1"
 mkdocs-material = "^9.4.7"
 pymdown-extensions = "^10.3.1"
+python-dotenv = "^1.0.0"
+nbdev = "^2.3.13"
+matplotlib = "^3.8.0"
+nbformat = "^5.9.2"
+ipytest = "^0.13.3"
 
 [build-system]
 requires = ["poetry-core"]
