@@ -15,60 +15,51 @@ Este repositório é dedicado à "Especialização em Visão Computacional". Sig
 
 ## Pré-requisitos
 
+**VSCode** - Editor de código utilizado durante o treinamento. Disponível para Windows, macOS e Linux. [Instalação oficial do VSCode](https://code.visualstudio.com/download)
 
-1. **VSCode** - Editor de código utilizado durante o treinamento. Disponível para Windows, macOS e Linux. [Instalação oficial do VSCode](https://code.visualstudio.com/download)
+**Pyenv** - Ferramenta para gerenciar múltiplas versões do Python. A versão recomendada do Python para este projeto é a `3.11.3`. [Instruções oficiais de instalação do Pyenv](https://github.com/pyenv/pyenv#installation)
 
-2. **Pyenv** - Ferramenta para gerenciar múltiplas versões do Python. A versão recomendada do Python para este projeto é a `3.11.3`. [Instruções oficiais de instalação do Pyenv](https://github.com/pyenv/pyenv#installation)
+**Poetry** - Ferramenta de gerenciamento de dependências em Python. [Instruções oficiais de instalação do Poetry](https://python-poetry.org/docs/#installation)
 
-3. **Poetry** - Ferramenta de gerenciamento de dependências em Python. [Instruções oficiais de instalação do Poetry](https://python-poetry.org/docs/#installation)
+**Git** - Ferramenta de controle de versão distribuído. [Instruções oficiais de instalação do Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-4. **Git** - Ferramenta de controle de versão distribuído. [Instruções oficiais de instalação do Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
-5. **GitHub** - Plataforma de hospedagem de código. É essencial ter uma conta para interagir com os repositórios. [Como criar uma conta no GitHub](https://docs.github.com/pt/get-started/onboarding/getting-started-with-your-github-account)
+**GitHub** - Plataforma de hospedagem de código. É essencial ter uma conta para interagir com os repositórios. [Como criar uma conta no GitHub](https://docs.github.com/pt/get-started/onboarding/getting-started-with-your-github-account)
 
 ## Instalação e Configuração
 
 Aqui está um resumo dos passos que você precisa seguir:
 
-**1. Clone do Repositório:**
+1. Clonar o [Repositório Github](https://github.com/carlosfab/visao-computacional) para a sua máquina local e acessar a pasta `visao-computacional`:
 
-```bash
-git clone https://github.com/carlosfab/visao-computacional.git
-cd visao-computacional
-```
+   ```bash
+   git clone https://github.com/carlosfab/visao-computacional.git
+   cd visao-computacional
+   ```
 
-**2. Configure o Poetry:**
+2. Configurar o Poetry para criar ambientes virtuais dentro do diretório do projeto.
 
-Se você ainda não tem o Poetry instalado, [clique aqui](https://python-poetry.org/docs/#installation) para instalá-lo. Depois, configure-o para criar ambientes virtuais dentro do diretório do projeto.
+   ```bash
+   poetry config virtualenvs.in-project true
+   ```
 
-```bash
-poetry config virtualenvs.in-project true
-```
+3. Configurar a versão `3.11.3` do Python com Pyenv:
 
-**3. Configuração do Python com Pyenv:**
+   ```bash
+   pyenv install 3.11.3
+   pyenv local 3.11.3
+   ```
 
-Se você não tem o pyenv instalado, [clique aqui](https://github.com/pyenv/pyenv#installation) para instruções de instalação. Configure a versão desejada do Python.
+4. Instalar as dependências do projeto:
 
-```bash
-pyenv install 3.11.3
-pyenv local 3.11.3
-```
+   ```bash
+   poetry install
+   ```
 
-**4. Instalação das Dependências:**
+5. Ativar o ambiente virtual.
 
-Este passo instalará todas as bibliotecas e dependências necessárias para o projeto.
-
-```bash
-poetry install
-```
-
-**5. Ativação do Ambiente Virtual:**
-
-Ative o ambiente virtual para verificar que tudo foi instalado corretamente e começar a trabalhar.
-
-```bash
-poetry shell
-```
+   ```bash
+   poetry shell
+   ```
 
 ## Recursos
 
