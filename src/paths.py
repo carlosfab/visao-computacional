@@ -1,7 +1,6 @@
 # --- Imports ---
-from pathlib import Path
 import os
-
+from pathlib import Path
 
 # --- Constants ---
 PARENT_DIR = Path(__file__).parent.resolve().parent
