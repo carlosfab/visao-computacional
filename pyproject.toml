@@ -20,6 +20,8 @@ matplotlib = "^3.8.0"
 nbformat = "^5.9.2"
 ipytest = "^0.13.3"
 imutils = "^0.5.4"
+moviepy = "^1.0.3"
+mediapipe = "^0.10.7"
 
 [tool.poetry.dev-dependencies]
 mkdocs = "^1.5.3"
