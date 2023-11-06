@@ -61,6 +61,14 @@ Aqui está um resumo dos passos que você precisa seguir:
    poetry shell
    ```
 
+6. Testando sua instalação
+
+   Após seguir os passos de instalação e configuração, execute os testes para garantir que tudo está funcionando como esperado:
+
+   ```bash
+   task test
+   ```
+
 ## Recursos
 
 * [Recursos e Materiais de apoio](https://sigmoidal.ai): Exemplos de materiais de apoio que serão listados aqui para apoiar o conteúdo da Especialização em Visão Computacional.

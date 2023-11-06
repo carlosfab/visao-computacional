@@ -42,3 +42,4 @@ known_third_party = []
 
 [tool.taskipy.tasks]
 format = "isort . && blue ."
+test = "pytest -v"
