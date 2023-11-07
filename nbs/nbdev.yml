@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "visao-computacional"
-  site-url: "https://carlosfab.github.io/visao-computacional"
-  description: "Material de Apoio da Especialização em Visão Computacional"
-  repo-branch: main
-  repo-url: "https://github.com/carlosfab/visao-computacional"
