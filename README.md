@@ -111,7 +111,7 @@ Atualmente, os projetos da Especialização em Visão Computacional estão dispo
 <a href="#" title="Alarme para Detecção de Intrusos"><img src="assets/projeto_04_thumb.png" alt="Alarme para Detecção de Intrusos" width="300px" align="left" /></a>
 <a href="#" title="Alarme para Detecção de Intrusos"><strong>Alarme para Detecção de Intrusos</strong></a>
 <div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
-<br/> Este projeto tem como objetivo desenvolver um sistema de vigilância utilizando técnicas de processamento de imagem para capturar imagens e detectar movimentos a partir de uma câmera de vigilância. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
+<br/> Este projeto tem como objetivo desenvolver um sistema de vigilância utilizando técnicas de processamento de imagem para detectar movimentos a partir de uma câmera externa. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
 
 #
 
