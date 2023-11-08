@@ -81,19 +81,31 @@ Aqui está um resumo dos passos que você precisa seguir:
 
 ## 🚀 Projetos
 
+Atualmente, os projetos da Especialização em Visão Computacional estão disponíveis apenas na plataforma de cursos do Sigmoidal (ao final de cada módulo), mas em breve serão atualizados neste repositório 🔥.
+
 <p align="left">
 <a href="#" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><img src="assets/projeto_01_thumb.png" alt="Detecção e Substituição de Fundo em Vídeos (Chroma Key)" width="300px" align="left" /></a>
 <a href="#" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><strong>Chroma Keying para criação de cenários</strong></a>
-<div><strong>Projeto 01</strong> | <strong>Atualizado: 8 Nov 2023</strong></div>
-<br/> Neste projeto você irá implementar um algoritmo que detecta o intervalo específico de intensidade da cor verde usada em telas de fundo (chroma key) em vídeos que apresentam uma pessoa em primeiro plano. Essa técnica, conhecida como Chroma Key ou composição com tela verde, será capaz de identificar e isolar o fundo verde e, posteriormente, substituí-lo por um cenário alternativo... </p>
-
-<br/>
+<div><strong>Projeto 01</strong> | <strong>Em Atualização...</strong></div>
+<br/> Neste projeto você irá implementar um algoritmo que detecta o intervalo específico de intensidade da cor verde usada em telas de fundo (chroma key) em vídeos que apresentam uma pessoa em primeiro plano. Essa técnica, conhecida como Chroma Key ou composição com tela verde, será capaz de identificar e isolar o fundo verde e, posteriormente, substituí-lo por um cenário alternativo...</p><br/>
 
 <p align="left">
 <a href="#" title="Análise de Desmatamento através de Imagens de Satélite"><img src="assets/projeto_02_thumb.png" alt="Análise de Desmatamento através de Imagens de Satélite" width="300px" align="left" /></a>
 <a href="#" title="Análise de Desmatamento através de Imagens de Satélite"><strong>Análise de Desmatamento através de Imagens de Satélite</strong></a>
-<div><strong>Projeto 02</strong> | <strong>Atualizado: ---</strong></div>
-<br/> Neste projeto, exploraremos imagens de satélite usando o Landsat 8 OLI/TIRS e a biblioteca Google Earth Engine (GEE). Aprenderemos a extrair informações de imagens de satélite, como detectar a presença de florestas e vegetações, e calcular o Índice de Vegetação por Diferença Normalizada (NDVI)... </p>
+<div><strong>Projeto 02</strong> | <strong>Em Atualização...</strong></div>
+<br/> Neste projeto você irá aprender a usar recursos de sensoriamento remoto para detectar desmatamentos em regiões de florestas. Especificamente, exploraremos imagens do satélite Landsat 8 (OLI/TIRS) e obteremos imagens ao longo de várias décadas usando a biblioteca Google Earth Engine (GEE). Você vai aprender a calcular o Índice de Vegetação por Diferença Normalizada (NDVI) e extrair informações relevantes... </p><br/>
+
+<p align="left">
+<a href="#" title="Reconhecimento e Contagem de Moedas"><img src="assets/projeto_03_thumb.png" alt="Reconhecimento e Contagem de Moedas" width="300px" align="left" /></a>
+<a href="#" title="Reconhecimento e Contagem de Moedas"><strong>Reconhecimento e Contagem de Moedas</strong></a>
+<div><strong>Projeto 03</strong> | <strong>Em Atualização...</strong></div>
+<br/> Neste projeto você irá implementar um algoritmo que detecta o intervalo específico de intensidade da cor verde usada em telas de fundo (chroma key) em vídeos que apresentam uma pessoa em primeiro plano. Essa técnica, conhecida como Chroma Key ou composição com tela verde, será capaz de identificar e isolar o fundo verde e, posteriormente, substituí-lo por um cenário alternativo...</p><br/>
+
+<p align="left">
+<a href="#" title="Alarme para Detecção de Intrusos"><img src="assets/projeto_04_thumb.png" alt="Alarme para Detecção de Intrusos" width="300px" align="left" /></a>
+<a href="#" title="Alarme para Detecção de Intrusos"><strong>Alarme para Detecção de Intrusos</strong></a>
+<div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
+<br/> Neste projeto você irá implementar um algoritmo que detecta o intervalo específico de intensidade da cor verde usada em telas de fundo (chroma key) em vídeos que apresentam uma pessoa em primeiro plano. Essa técnica, conhecida como Chroma Key ou composição com tela verde, será capaz de identificar e isolar o fundo verde e, posteriormente, substituí-lo por um cenário alternativo...</p><br/>
 
 ## Sobre o Instrutor
 
