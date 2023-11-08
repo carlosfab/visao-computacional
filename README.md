@@ -84,9 +84,9 @@ Aqui está um resumo dos passos que você precisa seguir:
 Atualmente, os projetos da Especialização em Visão Computacional estão disponíveis apenas na plataforma de cursos do Sigmoidal (ao final de cada módulo), mas em breve serão atualizados neste repositório 🔥.
 
 <p align="left">
-<a href="#" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><img src="assets/projeto_01_thumb.png" alt="Detecção e Substituição de Fundo em Vídeos (Chroma Key)" width="300px" align="left" /></a>
+<a href="projetos/projeto_01/" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><img src="assets/projeto_01_thumb.png" alt="Detecção e Substituição de Fundo em Vídeos (Chroma Key)" width="300px" align="left" /></a>
 <a href="#" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><strong>Chroma Keying para criação de cenários</strong></a>
-<div><strong>Projeto 01</strong> | <strong>Em Atualização...</strong></div>
+<div><strong>Projeto 01</strong> | <strong>Atualizado: 8 Nov 2023</strong></div>
 <br/> Neste primeiro projeto do curso, você irá implementar um algoritmo capaz de identificar e isolar o range de intensidade do fundo verde, e substituí-lo por um cenário alternativo (que pode ser uma imagem estática ou um outro vídeo qualquer...</p>
 
 #
