@@ -113,8 +113,6 @@ Atualmente, os projetos da Especialização em Visão Computacional estão dispo
 <div><strong>Projeto 04</strong> | <strong>Em Atualização...</strong></div>
 <br/> Este projeto tem como objetivo desenvolver um sistema de vigilância utilizando técnicas de processamento de imagem para detectar movimentos a partir de uma câmera externa. Serão utilizadas técnicas para isolar o fundo com uma máscara...</p><br/>
 
-#
-
 ## Sobre o Instrutor
 
 <p align="left">

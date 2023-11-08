@@ -25,6 +25,7 @@ mediapipe = "^0.10.7"
 ipython = "^8.17.2"
 jupyter = "^1.0.0"
 jupyterlab-quarto = "^0.2.8"
+opencv-python = "^4.8.1.78"
 
 [tool.poetry.dev-dependencies]
 isort = "^5.12.0"
