@@ -69,7 +69,7 @@ Aqui está um resumo dos passos que você precisa seguir:
    task test
    ```
 
-## **Material de apoio por módulo**
+## **🚀 Material de apoio por módulo**
 
 | Módulo | Descrição | Link para o Notebook |
 |--------|-----------|----------------------|
@@ -78,6 +78,22 @@ Aqui está um resumo dos passos que você precisa seguir:
 | **3 - Filtragem e Aprimoramento de Imagens** | Técnicas de filtragem e aprimoramento de imagens e detecção de contornos baseada em bordas. | [Atualizando...](https://github.com/carlosfab/visao-computacional/blob/main/notebooks/) |
 | **4 - Detecção Facial e Pontos de Referência** | Técnicas para detecção facial e identificação de pontos de referência (*landmarks*). | [Notebook 4](notebooks/04_deteccao_facial_e_landmarks.ipynb) |
 | **Módulo 5 - Detecção de Objetos com *Deep Learning*** | Desenvolvimento de modelos para detecção de objetos, introdução ao TensorFlow e YOLOv8 para detecção de objetos em tempo real. | [Atualizando...](https://github.com/carlosfab/visao-computacional/blob/main/notebooks/) |
+
+## 🚀 Projetos
+
+<p align="left">
+<a href="#" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><img src="assets/projeto_01_thumb.png" alt="Detecção e Substituição de Fundo em Vídeos (Chroma Key)" width="300px" align="left" /></a>
+<a href="#" title="Detecção e Substituição de Fundo em Vídeos (Chroma Key)"><strong>Chroma Keying para criação de cenários</strong></a>
+<div><strong>Projeto 01</strong> | <strong>Atualizado: 8 Nov 2023</strong></div>
+<br/> Neste projeto você irá implementar um algoritmo que detecta o intervalo específico de intensidade da cor verde usada em telas de fundo (chroma key) em vídeos que apresentam uma pessoa em primeiro plano. Essa técnica, conhecida como Chroma Key ou composição com tela verde, será capaz de identificar e isolar o fundo verde e, posteriormente, substituí-lo por um cenário alternativo... </p>
+
+<br/>
+
+<p align="left">
+<a href="#" title="Análise de Desmatamento através de Imagens de Satélite"><img src="assets/projeto_02_thumb.png" alt="Análise de Desmatamento através de Imagens de Satélite" width="300px" align="left" /></a>
+<a href="#" title="Análise de Desmatamento através de Imagens de Satélite"><strong>Análise de Desmatamento através de Imagens de Satélite</strong></a>
+<div><strong>Projeto 02</strong> | <strong>Atualizado: ---</strong></div>
+<br/> Neste projeto, exploraremos imagens de satélite usando o Landsat 8 OLI/TIRS e a biblioteca Google Earth Engine (GEE). Aprenderemos a extrair informações de imagens de satélite, como detectar a presença de florestas e vegetações, e calcular o Índice de Vegetação por Diferença Normalizada (NDVI)... </p>
 
 ## Sobre o Instrutor
 
