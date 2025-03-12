@@ -8,8 +8,8 @@ import numpy as np
 from imutils.video import VideoStream
 
 # --- Constantes --- #
-PROTOTXT = '../data/models/deploy.prototxt'
-MODEL = '../data/models/res10_300x300_ssd_iter_140000.caffemodel'
+PROTOTXT = '../../data/models/deploy.prototxt'
+MODEL = '../../data/models/res10_300x300_ssd_iter_140000.caffemodel'
 CONFIDENCE_THRESHOLD = 0.7
 POSITION = (200, 200)
 
