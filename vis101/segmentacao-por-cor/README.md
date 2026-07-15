@@ -1,4 +1,4 @@
-# VIS101 — Segmentação por cor (HSV)
+# VIS101: Segmentação por cor (HSV)
 
 Notebook interativo de segmentação por cor no espaço HSV, com controles ao vivo (ipywidgets).
 

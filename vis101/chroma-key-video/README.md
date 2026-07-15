@@ -1,4 +1,4 @@
-# VIS101 — Chroma key em vídeo (OpenCV)
+# VIS101: Chroma key em vídeo (OpenCV)
 
 Carregar um vídeo no OpenCV, remover o fundo verde por segmentação de cor e compor um novo cenário, salvando o resultado em vídeo.
 
